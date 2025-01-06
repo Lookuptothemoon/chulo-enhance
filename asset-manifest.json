@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Lookuptothemoon/chulo-enhance/static/css/main.1f07883f.css",
-    "main.js": "/Lookuptothemoon/chulo-enhance/static/js/main.85f7ee5c.js",
-    "static/js/488.16da92e1.chunk.js": "/Lookuptothemoon/chulo-enhance/static/js/488.16da92e1.chunk.js",
-    "static/media/home-services.jpg": "/Lookuptothemoon/chulo-enhance/static/media/home-services.d15b356d574eeb4b6de2.jpg",
-    "static/media/kitchen-remodel.jpg": "/Lookuptothemoon/chulo-enhance/static/media/kitchen-remodel.958f319a3c4ce581c400.jpg",
-    "static/media/home-remodel.jpg": "/Lookuptothemoon/chulo-enhance/static/media/home-remodel.d5dfcb24858f22afae0d.jpg",
-    "static/media/bedroom-remodel.jpg": "/Lookuptothemoon/chulo-enhance/static/media/bedroom-remodel.30c6cab355f0e0ffd993.jpg",
-    "static/media/home-blueprint.jpg": "/Lookuptothemoon/chulo-enhance/static/media/home-blueprint.c54bd025b83162164892.jpg",
-    "static/media/bathroom-remodel.jpg": "/Lookuptothemoon/chulo-enhance/static/media/bathroom-remodel.882a8f6fb1db66ac88c5.jpg",
-    "static/media/cover-img.jpg": "/Lookuptothemoon/chulo-enhance/static/media/cover-img.f991311108e57f57ff9e.jpg",
-    "static/media/hammer.jpg": "/Lookuptothemoon/chulo-enhance/static/media/hammer.aaf3ce4d850767232077.jpg",
-    "static/media/plug-connect.png": "/Lookuptothemoon/chulo-enhance/static/media/plug-connect.ca5edc1d32d13ca22a44.png",
-    "index.html": "/Lookuptothemoon/chulo-enhance/index.html",
-    "main.1f07883f.css.map": "/Lookuptothemoon/chulo-enhance/static/css/main.1f07883f.css.map",
-    "main.85f7ee5c.js.map": "/Lookuptothemoon/chulo-enhance/static/js/main.85f7ee5c.js.map",
-    "488.16da92e1.chunk.js.map": "/Lookuptothemoon/chulo-enhance/static/js/488.16da92e1.chunk.js.map"
+    "main.css": "/chulo-enhance/static/css/main.e200ec46.css",
+    "main.js": "/chulo-enhance/static/js/main.9a4585f3.js",
+    "static/js/488.16da92e1.chunk.js": "/chulo-enhance/static/js/488.16da92e1.chunk.js",
+    "static/media/home-services.jpg": "/chulo-enhance/static/media/home-services.d15b356d574eeb4b6de2.jpg",
+    "static/media/kitchen-remodel.jpg": "/chulo-enhance/static/media/kitchen-remodel.958f319a3c4ce581c400.jpg",
+    "static/media/home-remodel.jpg": "/chulo-enhance/static/media/home-remodel.d5dfcb24858f22afae0d.jpg",
+    "static/media/bedroom-remodel.jpg": "/chulo-enhance/static/media/bedroom-remodel.30c6cab355f0e0ffd993.jpg",
+    "static/media/home-blueprint.jpg": "/chulo-enhance/static/media/home-blueprint.c54bd025b83162164892.jpg",
+    "static/media/bathroom-remodel.jpg": "/chulo-enhance/static/media/bathroom-remodel.882a8f6fb1db66ac88c5.jpg",
+    "static/media/cover-img.jpg": "/chulo-enhance/static/media/cover-img.f991311108e57f57ff9e.jpg",
+    "static/media/hammer.jpg": "/chulo-enhance/static/media/hammer.aaf3ce4d850767232077.jpg",
+    "static/media/plug-connect.png": "/chulo-enhance/static/media/plug-connect.ca5edc1d32d13ca22a44.png",
+    "index.html": "/chulo-enhance/index.html",
+    "main.e200ec46.css.map": "/chulo-enhance/static/css/main.e200ec46.css.map",
+    "main.9a4585f3.js.map": "/chulo-enhance/static/js/main.9a4585f3.js.map",
+    "488.16da92e1.chunk.js.map": "/chulo-enhance/static/js/488.16da92e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f07883f.css",
-    "static/js/main.85f7ee5c.js"
+    "static/css/main.e200ec46.css",
+    "static/js/main.9a4585f3.js"
   ]
 }
