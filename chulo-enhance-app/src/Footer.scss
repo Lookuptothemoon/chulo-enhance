@@ -1,0 +1,28 @@
+.footer {
+    background: gray;
+    padding: 20px 0;
+    display:  flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    .footer-logo {
+        img {
+            width: 100px;
+        }
+    }
+
+    .footer-contact {
+        .footer-contact-phone {
+            margin-top: 5px;
+        }
+
+        .footer-contact-address {
+            margin-top: 5px;
+        }
+    }
+
+    .footer-copyright {
+        margin-top: 20px;
+    }
+}

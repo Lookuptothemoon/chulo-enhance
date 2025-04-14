@@ -1,0 +1,125 @@
+.home{
+    background-color: white;
+
+    .cover-img {
+        img {
+            width: 100%;
+        }
+    }
+
+    .home-service-section {
+        background-color: white;
+
+        .home-service-container-title {
+            text-align: center;
+            padding-top: 50px;
+        }
+    
+        .home-service-card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .home-service-card{
+                margin: 25px 20px;
+                max-width: 300px;
+
+                .home-service-card-img {
+                    img {
+                        width: 100%;
+                    }
+                }
+
+                .home-service-card-title {
+                    font-weight: bold;
+                    margin: 10px 0;
+                }
+
+                .home-service-card-description {
+                    margin: 20px 0;
+                }
+
+                .home-service-card-link {
+                    display: flex;
+                    justify-content: center;
+                    a {
+                        text-align: center;
+                        border: 1px solid black;
+                        border-radius: 5px;
+                        width: 100px;
+                        padding: 5px;
+                        text-decoration: none;
+                        color: black;
+                    }
+                    a:hover {
+                        background-color: black;
+                        color: white;
+                    }
+                }
+            }
+        }
+    }
+
+    .home-contact-section {
+        .home-contact-container {
+            background-image: url("./assets/home-remodel.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            height: 500px;
+            position: relative;
+
+            .home-contact-modal {
+                background-color: white;
+                position: absolute;
+                top: 100px;
+                left: 100px;
+                width: 300px;
+                padding: 20px;
+                border-radius: 10px;
+
+                .home-contact-model-title {
+                    font-weight: bold;
+                    margin-bottom: 10px;
+                }
+
+                .home-contact-model-description {
+                    margin-bottom: 20px;
+                }
+
+                .home-contact-model-link {
+                    a {
+                        background-color: black;
+                        text-align: center;
+                        border-radius: 5px;
+                        width: 100px;
+                        padding: 5px;
+                        text-decoration: none;
+                        color: white;
+                    }
+                    a:hover {
+                        background-color: white;
+                        color: black;
+                        border: 1px solid black;
+                    }
+                }
+            }
+        }
+    }
+
+    .home-testimonial-section {
+        padding: 20px 0;
+
+        .home-testimonial-card-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            flex-wrap: wrap;
+
+            .home-testimonial-card {
+                margin: 10px;
+                max-width: 300px;
+            }
+        }
+    }
+}

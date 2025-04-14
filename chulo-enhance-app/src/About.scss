@@ -1,0 +1,50 @@
+.about {
+    background-color: white;
+
+    .about-hero-img {
+        img {
+            width: 100%;
+        }
+    }
+
+    .about-container {
+        padding: 30px 20px;
+
+        .about-us-section {
+            .about-us-title {
+                font-weight: bold;
+                text-align: center;
+            }
+
+            .about-us-description {
+                margin-bottom: 25px;
+            }
+        }
+
+        .about-mission-section {
+
+            .about-mission-title {
+            }
+
+            .about-mission-description {
+                margin-bottom: 25px;
+            }
+        }
+
+        .about-services-section {
+            .about-services-title {
+            }
+            .about-services-list {
+                margin-bottom: 25px;
+            }
+        }
+
+        .about-why-choose-us-section {
+            .about-why-choose-us-title {
+            }
+            .about-why-choose-us-list {
+                margin-bottom: 25px;
+            }
+        }
+    }
+}
